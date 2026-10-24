@@ -1,0 +1,31 @@
+module it.polimi.ingsw.is25am31 {
+    requires javafx.controls;
+    requires javafx.fxml;
+    requires org.controlsfx.controls;
+    requires com.fasterxml.jackson.databind;
+    requires java.rmi;
+    requires java.desktop;
+    requires java.sql;
+    exports it.polimi.ingsw.is25am31.view to javafx.graphics;
+    opens it.polimi.ingsw.is25am31.view to javafx.fxml, javafx.graphics;
+    exports it.polimi.ingsw.is25am31.model.cards to com.fasterxml.jackson.databind;
+    opens it.polimi.ingsw.is25am31.model.cards to com.fasterxml.jackson.databind;
+    opens it.polimi.ingsw.is25am31 to javafx.fxml, com.fasterxml.jackson.databind;
+    exports it.polimi.ingsw.is25am31.model.components;
+    opens it.polimi.ingsw.is25am31.model.components to javafx.fxml, com.fasterxml.jackson.databind;
+    exports it.polimi.ingsw.is25am31.model.player;
+    opens it.polimi.ingsw.is25am31.model.player to javafx.fxml, com.fasterxml.jackson.databind;
+    exports it.polimi.ingsw.is25am31.model.gameboard;
+    opens it.polimi.ingsw.is25am31.model.gameboard to javafx.fxml, com.fasterxml.jackson.databind;
+    exports it.polimi.ingsw.is25am31.model;
+    opens it.polimi.ingsw.is25am31.model to javafx.fxml;
+    exports it.polimi.ingsw.is25am31.customerrors;
+    exports it.polimi.ingsw.is25am31.network.rmi.client to java.rmi;
+    exports it.polimi.ingsw.is25am31.network.rmi.server to java.rmi;
+    exports it.polimi.ingsw.is25am31.controller;
+    exports it.polimi.ingsw.is25am31.network;
+    exports it.polimi.ingsw.is25am31.view.gui to javafx.graphics;
+    opens it.polimi.ingsw.is25am31.view.gui to javafx.fxml, javafx.graphics;
+    exports it.polimi.ingsw.is25am31.view.tui to javafx.graphics;
+    opens it.polimi.ingsw.is25am31.view.tui to javafx.fxml, javafx.graphics;
+}

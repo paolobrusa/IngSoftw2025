@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="825.0" prefWidth="957.0" style="-fx-background-color: #191970;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.polimi.ingsw.is25am31.view.gui.Dashboard2">
+    <children>
+        <ImageView fitHeight="367.0" fitWidth="680.0" layoutX="58.0" layoutY="16.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@image/scoreboards/cardboard-5.png" />
+            </image>
+         </ImageView>
+        <Button fx:id="drawCardButton" layoutX="755.0" layoutY="367.0" mnemonicParsing="false" onAction="#handleDrawCard" prefHeight="25.0" prefWidth="161.0" text="Draw a card">
+            <font>
+                <Font name="Agency FB" size="18.0" />
+            </font>
+        </Button>
+      <ImageView fitHeight="16.0" fitWidth="15.0" layoutX="195.0" layoutY="86.0" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="viewShipButton1" layoutX="824.0" layoutY="518.0" mnemonicParsing="false" onAction="#handleViewShip1">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="viewShipButton2" layoutX="824.0" layoutY="567.0" mnemonicParsing="false" onAction="#handleViewShip2">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="viewShipButton3" layoutX="824.0" layoutY="470.0" mnemonicParsing="false" onAction="#handleViewShip3">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Button>
+      <ImageView id="rocket3" fx:id="rocket3" fitHeight="16.0" fitWidth="15.0" layoutX="287.0" layoutY="70.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket4" fx:id="rocket4" fitHeight="16.0" fitWidth="15.0" layoutX="330.0" layoutY="62.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket5" fx:id="rocket5" fitHeight="16.0" fitWidth="15.0" layoutX="376.0" layoutY="62.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket6" fx:id="rocket6" fitHeight="16.0" fitWidth="15.0" layoutX="423.0" layoutY="70.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket8" fx:id="rocket8" fitHeight="16.0" fitWidth="15.0" layoutX="508.0" layoutY="94.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket9" fx:id="rocket9" fitHeight="16.0" fitWidth="15.0" layoutX="550.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket10" fx:id="rocket10" fitHeight="16.0" fitWidth="15.0" layoutX="580.0" layoutY="175.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket11" fx:id="rocket11" fitHeight="16.0" fitWidth="15.0" layoutX="572.0" layoutY="226.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket13" fx:id="rocket13" fitHeight="16.0" fitWidth="15.0" layoutX="500.0" layoutY="288.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket14" fx:id="rocket14" fitHeight="16.0" fitWidth="15.0" layoutX="457.0" layoutY="307.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket15" fx:id="rocket15" fitHeight="16.0" fitWidth="15.0" layoutX="415.0" layoutY="315.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket16" fx:id="rocket16" fitHeight="16.0" fitWidth="15.0" layoutX="365.0" layoutY="323.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket17" fx:id="rocket17" fitHeight="16.0" fitWidth="15.0" layoutX="322.0" layoutY="323.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket20" fx:id="rocket20" fitHeight="16.0" fitWidth="15.0" layoutX="188.0" layoutY="288.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket21" fx:id="rocket21" fitHeight="16.0" fitWidth="15.0" layoutX="151.0" layoutY="254.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket22" fx:id="rocket22" fitHeight="16.0" fitWidth="15.0" layoutX="121.0" layoutY="210.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket23" fx:id="rocket23" fitHeight="16.0" fitWidth="15.0" layoutX="129.0" layoutY="159.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="398.0" fitWidth="547.0" layoutX="87.0" layoutY="394.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/scoreboards/cardboard-1b.jpg" />
+         </image>
+      </ImageView>
+      <ImageView id="6,6" fitHeight="75.0" fitWidth="73.0" layoutX="250.0" layoutY="481.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="6,7" fitHeight="75.0" fitWidth="73.0" layoutX="324.0" layoutY="481.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="6,8" fitHeight="75.0" fitWidth="73.0" layoutX="400.0" layoutY="481.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="7,8" fitHeight="75.0" fitWidth="73.0" layoutX="400.0" layoutY="555.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="7,9" fitHeight="75.0" fitWidth="73.0" layoutX="471.0" layoutY="555.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="7,7" fitHeight="75.0" fitWidth="73.0" layoutX="324.0" layoutY="555.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="7,6" fitHeight="75.0" fitWidth="73.0" layoutX="250.0" layoutY="555.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="7,5" fitHeight="75.0" fitWidth="73.0" layoutX="177.0" layoutY="555.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="8,5" fitHeight="75.0" fitWidth="73.0" layoutX="177.0" layoutY="624.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="8,6" fitHeight="75.0" fitWidth="73.0" layoutX="250.0" layoutY="624.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="8,7" fitHeight="75.0" fitWidth="73.0" layoutX="324.0" layoutY="624.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="8,8" fitHeight="75.0" fitWidth="73.0" layoutX="400.0" layoutY="630.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="8,9" fitHeight="75.0" fitWidth="73.0" layoutX="471.0" layoutY="624.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="9,9" fitHeight="75.0" fitWidth="73.0" layoutX="471.0" layoutY="699.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="9,8" fitHeight="75.0" fitWidth="73.0" layoutX="400.0" layoutY="699.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="9,6" fitHeight="75.0" fitWidth="73.0" layoutX="250.0" layoutY="699.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="9,5" fitHeight="75.0" fitWidth="73.0" layoutX="177.0" layoutY="699.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="75.0" fitWidth="73.0" layoutX="478.0" layoutY="406.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="75.0" fitWidth="73.0" layoutX="551.0" layoutY="406.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="5,6" fitHeight="75.0" fitWidth="73.0" layoutX="250.0" layoutY="406.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="6,5" fitHeight="75.0" fitWidth="73.0" layoutX="177.0" layoutY="481.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="9,4" fitHeight="75.0" fitWidth="73.0" layoutX="107.0" layoutY="699.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="8,4" fitHeight="75.0" fitWidth="73.0" layoutX="108.0" layoutY="630.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="7,4" fitHeight="75.0" fitWidth="73.0" layoutX="107.0" layoutY="555.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="5,8" fitHeight="75.0" fitWidth="73.0" layoutX="400.0" layoutY="406.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="6,9" fitHeight="75.0" fitWidth="73.0" layoutX="471.0" layoutY="481.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="7,10" fitHeight="75.0" fitWidth="73.0" layoutX="543.0" layoutY="555.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="8,10" fitHeight="75.0" fitWidth="73.0" layoutX="543.0" layoutY="630.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="9,10" fitHeight="75.0" fitWidth="73.0" layoutX="543.0" layoutY="699.0" pickOnBounds="true" preserveRatio="true" />
+        <Label id="6,7" layoutX="299.0" layoutY="417.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+            <font>
+                <Font name="Agency FB" size="18.0" />
+            </font>
+        </Label>
+      <Label id="5,8" layoutX="442.0" layoutY="417.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="6,5" layoutX="228.0" layoutY="487.0" prefHeight="25.0" prefWidth="22.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="6,6" layoutX="299.0" layoutY="487.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="6,7" layoutX="373.0" layoutY="487.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="6,8" layoutX="442.0" layoutY="487.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="5,6" layoutX="299.0" layoutY="417.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="6,9" layoutX="515.0" layoutY="487.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="7,4" layoutX="159.0" layoutY="556.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="7,5" layoutX="228.0" layoutY="556.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="7,6" layoutX="299.0" layoutY="556.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="7,8" layoutX="442.0" layoutY="556.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="7,7" layoutX="373.0" layoutY="556.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="7,9" layoutX="515.0" layoutY="556.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="7,10" layoutX="588.0" layoutY="556.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="8,4" layoutX="159.0" layoutY="630.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="8,5" layoutX="228.0" layoutY="630.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="8,6" layoutX="299.0" layoutY="630.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="8,7" layoutX="373.0" layoutY="630.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="8,8" layoutX="442.0" layoutY="630.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="8,9" layoutX="515.0" layoutY="630.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="8,10" layoutX="589.0" layoutY="630.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="9,4" layoutX="159.0" layoutY="705.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="9,5" layoutX="228.0" layoutY="705.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="9,6" layoutX="299.0" layoutY="705.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="9,8" layoutX="442.0" layoutY="705.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="9,9" layoutX="515.0" layoutY="705.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <Label id="9,10" layoutX="589.0" layoutY="705.0" prefHeight="22.0" prefWidth="25.0" style="-fx-background-color: yellow;" textAlignment="CENTER" underline="true" visible="false">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Label>
+      <ImageView id="rocket7" fx:id="rocket7" fitHeight="16.0" fitWidth="15.0" layoutX="466.0" layoutY="78.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket12" fx:id="rocket12" fitHeight="16.0" fitWidth="15.0" layoutX="543.0" layoutY="262.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket18" fx:id="rocket18" fitHeight="16.0" fitWidth="15.0" layoutX="280.0" layoutY="315.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket19" fx:id="rocket19" fitHeight="16.0" fitWidth="15.0" layoutX="231.0" layoutY="307.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket0" fx:id="rocket0" fitHeight="16.0" fitWidth="15.0" layoutX="159.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket1" fx:id="rocket1" fitHeight="16.0" fitWidth="15.0" layoutX="196.0" layoutY="94.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView id="rocket2" fx:id="rocket2" fitHeight="16.0" fitWidth="15.0" layoutX="243.0" layoutY="78.0" pickOnBounds="true" preserveRatio="true" />
+      <Label fx:id="notificationLabel" layoutX="683.0" layoutY="290.0" prefHeight="48.0" prefWidth="231.0" text="Label" textFill="WHITE" />
+      <Button fx:id="abandonButton" layoutX="755.0" layoutY="720.0" mnemonicParsing="false" onAction="#handleAbandonRace" prefHeight="25.0" prefWidth="161.0" text="Abandon Race">
+         <font>
+            <Font name="Agency FB" size="18.0" />
+         </font>
+      </Button>
+    </children>
+</AnchorPane>

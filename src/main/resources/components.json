@@ -1,0 +1,2049 @@
+[
+  {
+    "id": 1,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 2,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "NONE",
+      "LEFT": "NONE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 3,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "SINGLE",
+      "LEFT": "NONE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 4,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "DOUBLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 5,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 6,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "SINGLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 7,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "DOUBLE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 8,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 9,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 10,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 11,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 12,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 3,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 13,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 3,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 14,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 3,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 15,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 3,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 16,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 3,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "SINGLE",
+      "LEFT": "NONE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 17,
+    "name": "BatteryComponent",
+    "type": "BatteryComponent",
+    "capacity": 3,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 18,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "UNIVERSAL",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 19,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "UNIVERSAL",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 20,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 21,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 22,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 23,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 24,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 25,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 26,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 27,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 3,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 28,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 3,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "SINGLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 29,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 3,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 30,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 3,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 31,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 3,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "DOUBLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 32,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 3,
+    "special": false,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "SINGLE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "UNIVERSAL",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "SINGLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "DOUBLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "DOUBLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "UNIVERSAL",
+      "LEFT": "DOUBLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "NONE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "DOUBLE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "NONE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "SINGLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "SINGLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Cabin",
+    "type": "Cabin",
+    "crewMembers": 2,
+    "hasBrownAlienLifeSupport": false,
+    "hasPurpleAlienLifeSupport": false,
+    "currentAlien": "NONE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Component",
+    "type": "Component",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Component",
+    "type": "Component",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Component",
+    "type": "Component",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "SINGLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Component",
+    "type": "Component",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Component",
+    "type": "Component",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Component",
+    "type": "Component",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Component",
+    "type": "Component",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Component",
+    "type": "Component",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 62,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 1,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "SINGLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 63,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 1,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 64,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 1,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "SINGLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 65,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 1,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 66,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 1,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 67,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 1,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 68,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 69,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 70,
+    "name": "CargoHold",
+    "type": "CargoHold",
+    "capacity": 2,
+    "special": true,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+
+  {
+    "id": 75,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+
+  {
+    "id": 76,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+
+  {
+    "id": 77,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "ENGINE",
+      "LEFT": "SINGLE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "ENGINE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "ENGINE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "ENGINE",
+      "LEFT": "SINGLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "ENGINE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "ENGINE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "ENGINE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "ENGINE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "ENGINE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 89,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "ENGINE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "ENGINE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "ENGINE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "ENGINE",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "ENGINE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "ENGINE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "UNIVERSAL",
+      "BACK": "ENGINE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "ENGINE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Engine",
+    "type": "Engine",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "ENGINE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "UNIVERSAL",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 108,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "NONE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "NONE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "UNIVERSAL",
+      "LEFT": "NONE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "NONE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 114,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "UNIVERSAL",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 115,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 116,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "UNIVERSAL",
+      "LEFT": "SINGLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 117,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 118,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 120,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "UNIVERSAL",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 121,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 122,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "UNIVERSAL",
+      "LEFT": "DOUBLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 123,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 124,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 125,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 1,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 126,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 127,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 128,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "UNIVERSAL",
+      "LEFT": "NONE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 129,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "NONE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 130,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "NONE",
+      "RIGHT": "UNIVERSAL"
+    }
+  },
+  {
+    "id": 131,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "DOUBLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 132,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 133,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "UNIVERSAL",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 134,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Cannon",
+    "type": "Cannon",
+    "power": 2,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "CANNON",
+      "BACK": "SINGLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 137,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "BROWN",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 138,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "BROWN",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 139,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "BROWN",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 140,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "BROWN",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "SINGLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 141,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "BROWN",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 142,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "BROWN",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 143,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "PURPLE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "NONE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 144,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "PURPLE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 145,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "PURPLE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 146,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "PURPLE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 147,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "PURPLE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 148,
+    "name": "AlienLifeSupport",
+    "type": "AlienLifeSupport",
+    "color": "PURPLE",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "NONE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 149,
+    "name": "ShieldGenerator",
+    "type": "ShieldGenerator",
+    "OrientationShield": "UPRIGHT",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "UNIVERSAL",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 150,
+    "name": "ShieldGenerator",
+    "type": "ShieldGenerator",
+    "OrientationShield": "UPRIGHT" ,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "SINGLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 151,
+    "name": "ShieldGenerator",
+    "type": "ShieldGenerator",
+    "OrientationShield": "UPRIGHT",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "DOUBLE",
+      "BACK": "DOUBLE",
+      "LEFT": "SINGLE",
+      "RIGHT": "SINGLE"
+    }
+  },
+  {
+    "id": 152,
+    "name": "ShieldGenerator",
+    "type": "ShieldGenerator",
+    "OrientationShield": "UPRIGHT" ,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "UNIVERSAL",
+      "LEFT": "DOUBLE",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 153,
+    "name": "ShieldGenerator",
+    "type": "ShieldGenerator",
+    "OrientationShield": "UPRIGHT" ,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "DOUBLE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 154,
+    "name": "ShieldGenerator",
+    "type": "ShieldGenerator",
+    "OrientationShield": "UPRIGHT" ,
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "SINGLE",
+      "BACK": "SINGLE",
+      "LEFT": "DOUBLE",
+      "RIGHT": "DOUBLE"
+    }
+  },
+  {
+    "id": 155,
+    "name": "ShieldGenerator",
+    "type": "ShieldGenerator",
+    "OrientationShield": "UPRIGHT",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "SINGLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "NONE"
+    }
+  },
+  {
+    "id": 156,
+    "name": "ShieldGenerator",
+    "type": "ShieldGenerator",
+    "OrientationShield": "UPRIGHT",
+    "orientation": "FRONT",
+    "connector": {
+      "FRONT": "NONE",
+      "BACK": "DOUBLE",
+      "LEFT": "UNIVERSAL",
+      "RIGHT": "DOUBLE"
+    }
+  }
+
+]

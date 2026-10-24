@@ -1,0 +1,439 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "name": "Slavers",
+    "type": "Slavers",
+    "testFlight": false,
+    "cannonStrength": 6,
+    "lostCrewMembers": 3,
+    "gainedCoins": 5,
+    "lostDays": 1
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "name": "Smugglers",
+    "type": "Smugglers",
+    "testFlight": true,
+    "cannonStrength": 4,
+    "lostGoods": 2,
+    "gainedGoods": ["YELLOW", "GREEN", "BLUE"],
+    "lostDays": 1
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "name": "Pirates",
+    "type": "Pirates",
+    "testFlight": false,
+    "cannonStrength": 5,
+    "cannonHits": ["SMALL", "LARGE", "SMALL"],
+    "gainedCoins": 4,
+    "lostDays": 1
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "name": "Stardust",
+    "type": "Stardust",
+    "testFlight": true
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "name": "OpenSpace",
+    "type": "OpenSpace",
+    "testFlight": true
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "name": "OpenSpace",
+    "type": "OpenSpace",
+    "testFlight": false
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "name": "OpenSpace",
+    "type": "OpenSpace",
+    "testFlight": false
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "name": "OpenSpace",
+    "type": "OpenSpace",
+    "testFlight": false
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "name": "MeteorSwarm",
+    "type": "MeteorSwarm",
+    "testFlight": true,
+    "meteorites": [
+      {"size":  "LARGE", "side": "FRONT"},
+      {"size":  "SMALL", "side": "LEFT"},
+      {"size":  "SMALL", "side": "RIGHT"}
+    ]
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "name": "MeteorSwarm",
+    "type": "MeteorSwarm",
+    "testFlight": false,
+    "meteorites": [
+      {"size":  "SMALL", "side": "FRONT"},
+      {"size":  "SMALL", "side": "FRONT"},
+      {"size":  "SMALL", "side": "LEFT"},
+      {"size":  "SMALL", "side": "RIGHT"},
+      {"size":  "SMALL", "side": "BACK"}
+    ]
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "name": "MeteorSwarm",
+    "type": "MeteorSwarm",
+    "testFlight": false,
+    "meteorites": [
+      {"size":  "LARGE", "side": "FRONT"},
+      {"size":  "SMALL", "side": "FRONT"},
+      {"size":  "LARGE", "side": "FRONT"}
+    ]
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "name": "Planets",
+    "type": "Planets",
+    "testFlight": false,
+    "planets": 4,
+    "goods": [
+      ["RED", "GREEN", "BLUE", "BLUE", "BLUE"],
+      ["RED", "YELLOW", "BLUE"],
+      ["RED", "BLUE", "BLUE", "BLUE"],
+      ["RED", "GREEN"]
+    ],
+    "lostDays": 3
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "name": "Planets",
+    "type": "Planets",
+    "testFlight": true,
+    "planets": 3,
+    "goods": [
+      ["RED", "RED"],
+      ["RED", "BLUE", "BLUE"],
+      ["YELLOW"]
+    ],
+    "lostDays": 2
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "name": "Planets",
+    "type": "Planets",
+    "testFlight": false,
+    "planets": 2,
+    "goods": [
+      ["YELLOW", "GREEN", "BLUE", "BLUE"],
+      ["YELLOW", "YELLOW"]
+    ],
+    "lostDays": 3
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "name": "Planets",
+    "type": "Planets",
+    "testFlight": false,
+    "planets": 3,
+    "goods": [
+      ["GREEN", "GREEN"],
+      ["YELLOW"],
+      ["BLUE", "BLUE", "BLUE"]
+    ],
+    "lostDays": 1
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "name": "CombatZone",
+    "type": "CombatZone",
+    "testFlight": true,
+    "lostDays": 3,
+    "lostGoods": 0,
+    "lostCrewMembers": 2,
+    "cannonHits": [
+      {"size":  "SMALL", "side": "BACK"},
+      {"size":  "LARGE", "side": "BACK"}
+    ]
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "name": "AbandonedShip",
+    "type": "AbandonedShip",
+    "testFlight": false,
+    "gainedCoins": 3,
+    "lostCrewMembers": 2,
+    "lostDays": 1
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "name": "AbandonedShip",
+    "type": "AbandonedShip",
+    "testFlight": true,
+    "gainedCoins": 4,
+    "lostCrewMembers": 3,
+    "lostDays": 1
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "name": "AbandonedStation",
+    "type": "AbandonedStation",
+    "testFlight": true,
+    "crewMembers": 5,
+    "gainedGoods": ["YELLOW", "GREEN"],
+    "lostDays": 1
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "name": "AbandonedStation",
+    "type": "AbandonedStation",
+    "testFlight": false,
+    "crewMembers": 6,
+    "gainedGoods": ["RED", "RED"],
+    "lostDays": 1
+  },
+  {
+    "id": 21,
+    "level": 2,
+    "name": "Slavers",
+    "type": "Slavers",
+    "testFlight": false,
+    "cannonStrength": 7,
+    "lostCrewMembers": 4,
+    "gainedCoins": 8,
+    "lostDays": 2
+  },
+  {
+    "id": 22,
+    "level": 2,
+    "name": "Smugglers",
+    "type": "Smugglers",
+    "testFlight": false,
+    "cannonStrength": 8,
+    "lostGoods": 3,
+    "gainedGoods": ["RED", "YELLOW", "YELLOW"],
+    "lostDays": 1
+  },
+  {
+    "id": 23,
+    "level": 2,
+    "name": "Pirates",
+    "type": "Pirates",
+    "testFlight": false,
+    "cannonStrength": 6,
+    "cannonHits": ["LARGE", "SMALL", "LARGE"],
+    "gainedCoins": 7,
+    "lostDays": 2
+  },
+  {
+    "id": 24,
+    "level": 2,
+    "name": "Stardust",
+    "type": "Stardust",
+    "testFlight": false
+  },
+  {
+    "id": 25,
+    "level": 2,
+    "name": "Epidemic",
+    "type": "Epidemic",
+    "testFlight": false
+  },
+  {
+    "id": 26,
+    "level": 2,
+    "name": "OpenSpace",
+    "type": "OpenSpace",
+    "testFlight": false
+  },
+  {
+    "id": 27,
+    "level": 2,
+    "name": "OpenSpace",
+    "type": "OpenSpace",
+    "testFlight": false
+  },
+  {
+    "id": 28,
+    "level": 2,
+    "name": "OpenSpace",
+    "type": "OpenSpace",
+    "testFlight": false
+  },
+  {
+    "id": 29,
+    "level": 2,
+    "name": "MeteorSwarm",
+    "type": "MeteorSwarm",
+    "testFlight": false,
+    "meteorites": [
+      {"size":  "SMALL", "side": "FRONT"},
+      {"size":  "SMALL", "side": "FRONT"},
+      {"size":  "LARGE", "side": "LEFT"},
+      {"size":  "SMALL", "side": "LEFT"},
+      {"size":  "SMALL", "side": "LEFT"}
+    ]
+  },
+  {
+    "id": 30,
+    "level": 2,
+    "name": "MeteorSwarm",
+    "type": "MeteorSwarm",
+    "testFlight": false,
+    "meteorites": [
+      {"size":  "LARGE", "side": "FRONT"},
+      {"size":  "LARGE", "side": "FRONT"},
+      {"size":  "SMALL", "side": "BACK"},
+      {"size":  "SMALL", "side": "BACK"}
+    ]
+  },
+  {
+    "id": 31,
+    "level": 2,
+    "name": "MeteorSwarm",
+    "type": "MeteorSwarm",
+    "testFlight": false,
+    "meteorites": [
+      {"size":  "SMALL", "side": "FRONT"},
+      {"size":  "SMALL", "side": "FRONT"},
+      {"size":  "LARGE", "side": "RIGHT"},
+      {"size":  "SMALL", "side": "RIGHT"},
+      {"size":  "SMALL", "side": "RIGHT"}
+    ]
+  },
+  {
+    "id": 32,
+    "level": 2,
+    "name": "Planets",
+    "type": "Planets",
+    "testFlight": false,
+    "planets": 3,
+    "goods": [
+      ["RED", "RED", "RED", "YELLOW"],
+      ["RED", "RED", "GREEN", "GREEN"],
+      ["RED", "BLUE", "BLUE", "BLUE", "BLUE"]
+    ],
+    "lostDays": 4
+  },
+  {
+    "id": 33,
+    "level": 2,
+    "name": "Planets",
+    "type": "Planets",
+    "testFlight": false,
+    "planets": 2,
+    "goods": [
+      ["RED", "RED"],
+      ["GREEN", "GREEN", "GREEN", "GREEN"]
+    ],
+    "lostDays": 3
+  },
+  {
+    "id": 34,
+    "level": 2,
+    "name": "Planets",
+    "type": "Planets",
+    "testFlight": false,
+    "planets": 4,
+    "goods": [
+      ["RED", "YELLOW"],
+      ["YELLOW", "GREEN", "BLUE"],
+      ["GREEN", "GREEN"],
+      ["YELLOW"]
+    ],
+    "lostDays": 2
+  },
+  {
+    "id": 35,
+    "level": 2,
+    "name": "Planets",
+    "type": "Planets",
+    "testFlight": false,
+    "planets": 3,
+    "goods": [
+      ["GREEN", "GREEN", "GREEN", "GREEN"],
+      ["YELLOW", "YELLOW"],
+      ["BLUE", "BLUE", "BLUE", "BLUE"]
+    ],
+    "lostDays": 3
+  },
+  {
+    "id": 36,
+    "level": 2,
+    "name": "CombatZone",
+    "type": "CombatZone",
+    "testFlight": false,
+    "lostDays": 4,
+    "lostGoods": 3,
+    "lostCrewMembers": 0,
+    "cannonHits": [
+      {"size":  "SMALL", "side": "FRONT"},
+      {"size":  "SMALL", "side": "LEFT"},
+      {"size":  "LARGE", "side": "BACK"},
+      {"size":  "SMALL", "side": "RIGHT"}
+    ]
+  },
+  {
+    "id": 37,
+    "level": 2,
+    "name": "AbandonedShip",
+    "type": "AbandonedShip",
+    "testFlight": false,
+    "gainedCoins": 6,
+    "lostCrewMembers": 4,
+    "lostDays": 1
+  },
+  {
+    "id": 38,
+    "level": 2,
+    "name": "AbandonedShip",
+    "type": "AbandonedShip",
+    "testFlight": false,
+    "gainedCoins": 8,
+    "lostCrewMembers": 5,
+    "lostDays": 2
+  },
+  {
+    "id": 39,
+    "level": 2,
+    "name": "AbandonedStation",
+    "type": "AbandonedStation",
+    "testFlight": false,
+    "crewMembers": 7,
+    "gainedGoods": ["RED", "YELLOW"],
+    "lostDays": 1
+  },
+  {
+    "id": 40,
+    "level": 2,
+    "name": "AbandonedStation",
+    "type": "AbandonedStation",
+    "testFlight": false,
+    "crewMembers": 8,
+    "gainedGoods": ["YELLOW", "YELLOW", "GREEN"],
+    "lostDays": 2
+  }
+]

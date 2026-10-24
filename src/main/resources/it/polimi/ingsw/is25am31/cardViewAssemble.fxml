@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="642.0" prefWidth="701.0" style="-fx-background-color: #191970;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.polimi.ingsw.is25am31.view.gui.CardViewAssemble">
+   <children>
+      <ListView fx:id="faceUpListCard" layoutX="171.0" layoutY="9.0" prefHeight="625.0" prefWidth="360.0" />
+   </children>
+</AnchorPane>
